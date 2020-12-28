@@ -13,7 +13,7 @@ Before we collect any personally identifiable information, we will provide you w
 # How we protect and store personal information
 We commit to protect personal information. We store your information on our secured server. We use SSL for the checkout process which help you keep your billing information safe. No credit card information is saved on our system. We don’t share your personal information with any other third parties.
 
-You can always trust when doing business with MageWorld, we always try our best to procted our customers.
+You can always trust when doing business with LDTSoftware, we always try our best to procted our customers.
 
 
 # Other Important Information
