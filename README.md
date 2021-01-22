@@ -19,3 +19,6 @@ The extension is guaranteed to improve effective engagement with the customers. 
 
 ## Magento Marketplace
 https://marketplace.magento.com/ldtsoft-dropdown-address.html
+
+## Contact
+https://www.linkedin.com/in/ldt-soft-6490a7204/
